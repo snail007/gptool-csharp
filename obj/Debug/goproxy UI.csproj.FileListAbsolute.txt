@@ -1,0 +1,22 @@
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\bin\Debug\IEProxyManagment.exe.config
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\bin\Debug\IEProxyManagment.exe
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\bin\Debug\IEProxyManagment.pdb
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\obj\Debug\goproxy UI.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\obj\Debug\IEProxyManagment.ProxySetingWin.resources
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\obj\Debug\IEProxyManagment.Properties.Resources.resources
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\obj\Debug\goproxy UI.csproj.GenerateResource.cache
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\obj\Debug\goproxy UI.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\obj\Debug\IEProxyManagment.exe
+C:\Users\Gao\source\repos\goproxy ui 1.0\IEProxyManagment\obj\Debug\IEProxyManagment.pdb
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\goproxy UI.csprojAssemblyReference.cache
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\goproxy UI.csproj.GenerateResource.cache
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\goproxy UI.csproj.CoreCompileInputs.cache
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\goproxy UI.csproj.CopyComplete
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\GoProxyTool.ProxySetingWin.resources
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\GoProxyTool.Properties.Resources.resources
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\bin\Debug\GoProxyTool.exe.config
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\bin\Debug\GoProxyTool.exe
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\bin\Debug\GoProxyTool.pdb
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\GoProxyTool.exe
+C:\Users\Gao\source\repos\goproxy ui 2.0 sps only\IEProxyManagment\obj\Debug\GoProxyTool.pdb
