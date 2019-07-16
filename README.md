@@ -3,4 +3,4 @@ snail007/goproxy C#开发的Windows桌面版配置工具，由于个人能力有
 
 ### 界面
 
-![snapshot.png](/doc/images/snapshot.png)
+![snapshot.png](/doc/images/snapshot0.png)
